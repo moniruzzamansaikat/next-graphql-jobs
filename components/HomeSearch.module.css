@@ -1,0 +1,14 @@
+.wrapper {
+  max-width: 992px;
+  margin: 0 auto !important;
+}
+
+.input {
+  border-left: 0 !important;
+}
+
+.input_lable {
+  background-color: transparent;
+  border-right: 0 !important;
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.job_card {
+  padding: 1rem;
+  border: 5px solid #206b80;
+}
+
+.apply_button {
+  background-color: #206b80;
+  color: #f0f0f0;
+}
+
+.details_button {
+  background-color: #ec6104;
+}
+
+.details_button a {
+  text-decoration: none;
+  color: #000;
+}
